@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AppList Manager</string>
+    <string name="hometxt1">Thank you for installing <b>AppList Manager</b>.\nYou can check out other apps we made by saying <i><b>\"Vishnu\"</b></i> to your echo remote.</string>
+    <string name="hometxt2"><ul><li>To switch between Normal and Mosaic Layout make use of the button provided.</li>\n<li>To set focus to the app search box use the Menu button.</li>\n<li>To quickly go to top of list make use of the menu button, it shifts focus to the app search box.</li>\n<li>When in app details screen use the menu button to open the app instantly.</li></ul></string>
+    <string name="last"><b>Press Right DPad button to proceed/ Click here.</b></string>
+    <string name="devtext"><b>Developed by Vishnu N K.\nhttps://visnkmr.github.io\nhttps://t.me/vishnunkmr</b></string>
+    <!-- Error messages -->
+</resources>
